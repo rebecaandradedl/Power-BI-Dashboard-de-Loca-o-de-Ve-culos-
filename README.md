@@ -1,4 +1,4 @@
-# Power-BI-Dashboard-de-Locacao-de-Veiculos-
+# PowerBI Dashboard de Locacao de Veiculos
 📊 Relatório Interativo - Power BI
 Este repositório contém os arquivos de estrutura, layout e visuais personalizados de um painel interativo desenvolvido no Power BI. O projeto foi estruturado para oferecer análise de dados dinâmica, navegação intuitiva e suporte a filtros avançados de pesquisa.
 
